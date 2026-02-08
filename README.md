@@ -1,5 +1,5 @@
 # 🌍 OPTIMIZED SOIL EROSION RISK ASSESSMENT - COMPLETE PACKAGE
-
+{CODE}(https://code.earthengine.google.com/6f6d6a4d05202f0502912ada74d29dc5)
 ## 📦 PACKAGE CONTENTS
 
 This package contains a **highly optimized** Google Earth Engine (GEE) code for soil erosion risk assessment using the RUSLE (Revised Universal Soil Loss Equation) methodology, specifically designed for **fast computation** and **clear results**.
